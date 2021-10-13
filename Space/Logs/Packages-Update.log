@@ -59,3 +59,11 @@ Update Mode: updateDependencies
 
 The following packages were added:
   com.unity.xr.legacyinputhelpers@2.1.7
+
+=== Wed Oct 13 06:45:28 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.xr.legacyinputhelpers from version 2.1.7 to 2.1.8

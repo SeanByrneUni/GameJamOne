@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: cd3cb3b41ff6bc04f82d100fd609d5c0
   - enabled: 1
@@ -14,13 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/PlatformerVisualNovelHybrid.unity
     guid: 2ca8e06dd509e354f80f26b78c7bdee1
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/2.unity
     guid: 5da2fd8d01b2b2242b8bc065d4abaa22
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/3.unity
     guid: fb74ce020cd45974aab3a386689fb42e
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/4.unity
     guid: cc45bc7744416b44595a179fffa273c1
   m_configObjects: {}

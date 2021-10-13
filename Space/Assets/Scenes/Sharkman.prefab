@@ -46,7 +46,8 @@ MonoBehaviour:
   nameText: Donny
   nameColor: {r: 0, g: 0.8666667, b: 0.019607844, a: 1}
   soundEffect: {fileID: 0}
-  portraits: []
+  portraits:
+  - {fileID: 21300000, guid: ff3e93d9fd0ef424385e1a7f6a45b077, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
   description: 
